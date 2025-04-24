@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="amp black icon" />
-<img src="./128/slate.png" width="128" alt="amp slate icon" />
-<img src="./128/white.png" width="128" alt="amp white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="amp black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="amp slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="amp white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/amp/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/amp/1024/white.png
 ```
 
 ## 16 px in base64

@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="surfshark black icon" />
-<img src="./128/slate.png" width="128" alt="surfshark slate icon" />
-<img src="./128/white.png" width="128" alt="surfshark white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="surfshark black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="surfshark slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="surfshark white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/surfshark/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/surfshark/1024/white.png
 ```
 
 ## 16 px in base64

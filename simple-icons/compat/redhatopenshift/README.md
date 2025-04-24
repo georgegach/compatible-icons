@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="redhatopenshift black icon" />
-<img src="./128/slate.png" width="128" alt="redhatopenshift slate icon" />
-<img src="./128/white.png" width="128" alt="redhatopenshift white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="redhatopenshift black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="redhatopenshift slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="redhatopenshift white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/redhatopenshift/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/redhatopenshift/1024/white.png
 ```
 
 ## 16 px in base64

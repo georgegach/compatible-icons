@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="strapi black icon" />
-<img src="./128/slate.png" width="128" alt="strapi slate icon" />
-<img src="./128/white.png" width="128" alt="strapi white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="strapi black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="strapi slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="strapi white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/strapi/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/strapi/1024/white.png
 ```
 
 ## 16 px in base64

@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="rainmeter black icon" />
-<img src="./128/slate.png" width="128" alt="rainmeter slate icon" />
-<img src="./128/white.png" width="128" alt="rainmeter white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="rainmeter black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="rainmeter slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="rainmeter white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/rainmeter/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/rainmeter/1024/white.png
 ```
 
 ## 16 px in base64

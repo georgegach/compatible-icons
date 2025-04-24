@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="scrumalliance black icon" />
-<img src="./128/slate.png" width="128" alt="scrumalliance slate icon" />
-<img src="./128/white.png" width="128" alt="scrumalliance white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="scrumalliance black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="scrumalliance slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="scrumalliance white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/scrumalliance/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/scrumalliance/1024/white.png
 ```
 
 ## 16 px in base64

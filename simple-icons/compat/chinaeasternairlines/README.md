@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="chinaeasternairlines black icon" />
-<img src="./128/slate.png" width="128" alt="chinaeasternairlines slate icon" />
-<img src="./128/white.png" width="128" alt="chinaeasternairlines white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="chinaeasternairlines black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="chinaeasternairlines slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="chinaeasternairlines white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/chinaeasternairlines/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/chinaeasternairlines/1024/white.png
 ```
 
 ## 16 px in base64

@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="manjaro black icon" />
-<img src="./128/slate.png" width="128" alt="manjaro slate icon" />
-<img src="./128/white.png" width="128" alt="manjaro white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="manjaro black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="manjaro slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="manjaro white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/manjaro/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/manjaro/1024/white.png
 ```
 
 ## 16 px in base64

@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="keeweb black icon" />
-<img src="./128/slate.png" width="128" alt="keeweb slate icon" />
-<img src="./128/white.png" width="128" alt="keeweb white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="keeweb black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="keeweb slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="keeweb white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/keeweb/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/keeweb/1024/white.png
 ```
 
 ## 16 px in base64

@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="vagrant black icon" />
-<img src="./128/slate.png" width="128" alt="vagrant slate icon" />
-<img src="./128/white.png" width="128" alt="vagrant white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="vagrant black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="vagrant slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="vagrant white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/vagrant/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/vagrant/1024/white.png
 ```
 
 ## 16 px in base64

@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="kentico black icon" />
-<img src="./128/slate.png" width="128" alt="kentico slate icon" />
-<img src="./128/white.png" width="128" alt="kentico white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="kentico black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="kentico slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="kentico white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kentico/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kentico/1024/white.png
 ```
 
 ## 16 px in base64

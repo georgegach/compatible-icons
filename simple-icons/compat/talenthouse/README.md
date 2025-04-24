@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="talenthouse black icon" />
-<img src="./128/slate.png" width="128" alt="talenthouse slate icon" />
-<img src="./128/white.png" width="128" alt="talenthouse white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="talenthouse black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="talenthouse slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="talenthouse white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/talenthouse/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/talenthouse/1024/white.png
 ```
 
 ## 16 px in base64

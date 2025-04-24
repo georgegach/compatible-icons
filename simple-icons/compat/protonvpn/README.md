@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="protonvpn black icon" />
-<img src="./128/slate.png" width="128" alt="protonvpn slate icon" />
-<img src="./128/white.png" width="128" alt="protonvpn white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="protonvpn black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="protonvpn slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="protonvpn white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/protonvpn/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/protonvpn/1024/white.png
 ```
 
 ## 16 px in base64

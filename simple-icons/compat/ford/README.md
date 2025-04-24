@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="ford black icon" />
-<img src="./128/slate.png" width="128" alt="ford slate icon" />
-<img src="./128/white.png" width="128" alt="ford white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="ford black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="ford slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="ford white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/ford/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/ford/1024/white.png
 ```
 
 ## 16 px in base64

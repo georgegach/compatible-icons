@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="apachenetbeanside black icon" />
-<img src="./128/slate.png" width="128" alt="apachenetbeanside slate icon" />
-<img src="./128/white.png" width="128" alt="apachenetbeanside white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="apachenetbeanside black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="apachenetbeanside slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="apachenetbeanside white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/apachenetbeanside/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/apachenetbeanside/1024/white.png
 ```
 
 ## 16 px in base64

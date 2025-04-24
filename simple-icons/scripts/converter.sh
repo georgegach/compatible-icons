@@ -72,12 +72,14 @@ for svg in "${svg_files[@]}"; do
     echo "[← Back to main README](../../README.md)"
     echo
 
-    # Row of 128px icons for each color, plain
-    echo
+    # Row of 128px icons for each color, HTML table for horizontal layout
+    echo '<table><tr>'
     for suffix in "${!COLORS[@]}"; do
-      echo "<img src=\"./128/${suffix}.png\" width=\"128\" alt=\"${base} ${suffix} icon\" />"
+      echo "  <td><img src=\"./128/${suffix}.png\" width=\"128\" alt=\"${base} ${suffix} icon\" /></td>"
     done
+    echo '</tr></table>'
     echo
+
 
     # List all sizes/URLs
     for dim in "${DIMENSIONS[@]}"; do
@@ -86,7 +88,7 @@ for svg in "${svg_files[@]}"; do
       for suffix in "${!COLORS[@]}"; do
         echo "### $suffix"
         echo '```'
-        echo "https://georgegach.github.io/compatible-icons/simple-icons/$base/$dim/$suffix.png"
+        echo "https://georgegach.github.io/compatible-icons/simple-icons/compat/$base/$dim/$suffix.png"
         echo '```'
         echo
       done

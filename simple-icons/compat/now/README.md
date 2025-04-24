@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="now black icon" />
-<img src="./128/slate.png" width="128" alt="now slate icon" />
-<img src="./128/white.png" width="128" alt="now white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="now black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="now slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="now white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/now/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/now/1024/white.png
 ```
 
 ## 16 px in base64

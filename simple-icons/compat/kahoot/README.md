@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="kahoot black icon" />
-<img src="./128/slate.png" width="128" alt="kahoot slate icon" />
-<img src="./128/white.png" width="128" alt="kahoot white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="kahoot black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="kahoot slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="kahoot white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kahoot/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kahoot/1024/white.png
 ```
 
 ## 16 px in base64

@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="kaspersky black icon" />
-<img src="./128/slate.png" width="128" alt="kaspersky slate icon" />
-<img src="./128/white.png" width="128" alt="kaspersky white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="kaspersky black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="kaspersky slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="kaspersky white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/kaspersky/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/kaspersky/1024/white.png
 ```
 
 ## 16 px in base64

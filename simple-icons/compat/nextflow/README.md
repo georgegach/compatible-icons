@@ -2,94 +2,95 @@
 
 [← Back to main README](../../README.md)
 
-
-<img src="./128/black.png" width="128" alt="nextflow black icon" />
-<img src="./128/slate.png" width="128" alt="nextflow slate icon" />
-<img src="./128/white.png" width="128" alt="nextflow white icon" />
+<table><tr>
+  <td><img src="./128/black.png" width="128" alt="nextflow black icon" /></td>
+  <td><img src="./128/slate.png" width="128" alt="nextflow slate icon" /></td>
+  <td><img src="./128/white.png" width="128" alt="nextflow white icon" /></td>
+</tr></table>
 
 ## 16 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/16/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/16/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/16/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/16/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/16/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/16/white.png
 ```
 
 ## 64 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/64/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/64/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/64/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/64/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/64/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/64/white.png
 ```
 
 ## 128 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/128/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/128/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/128/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/128/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/128/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/128/white.png
 ```
 
 ## 512 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/512/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/512/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/512/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/512/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/512/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/512/white.png
 ```
 
 ## 1024 px
 
 ### black
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/1024/black.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/1024/black.png
 ```
 
 ### slate
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/1024/slate.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/1024/slate.png
 ```
 
 ### white
 ```
-https://georgegach.github.io/compatible-icons/simple-icons/nextflow/1024/white.png
+https://georgegach.github.io/compatible-icons/simple-icons/compat/nextflow/1024/white.png
 ```
 
 ## 16 px in base64
