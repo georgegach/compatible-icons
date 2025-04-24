@@ -1,7 +1,7 @@
 # Compatible Icons 🔥
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/compatible-icons?style=social)](https://github.com/yourusername/compatible-icons/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/georgegach/compatible-icons?style=social)](https://github.com/georgegach/compatible-icons/stargazers)
 
 Drop-in replacement for icon packs that lack available image formats. Compatible Icons generates multi-size, multi-color PNGs from source SVG sets for tools and markups that only support bitmap assets.
 
