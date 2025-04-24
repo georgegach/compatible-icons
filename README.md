@@ -1,2 +1,4 @@
-# compatible-icons
-Compatible Icons!
+# Compatible Icons!
+
+- [simple-icons](simple-icons/README.md)
+
